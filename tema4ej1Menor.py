@@ -6,7 +6,7 @@ def obtener_menor(numeros):
     return contador
 obtener_menor([2, 6, 8, 20, 40, 12, 1, 4])
 
-'''
+''' #ESTE LO SAQUE DE INTERNET EL EJEMPLO.
 def menor(lista):
     min = lista[0]
     for x in lista:
